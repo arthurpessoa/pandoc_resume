@@ -1,14 +1,14 @@
-The Markdown Resume
+Arthur's Resume
 ===================
 
 Instructions:
 
-    git clone https://github.com/mszep/pandoc_resume
-    cd pandoc_resume
-    vim resume.md   #insert your own resume info
+    git clone https://github.com/arthurpessoa/resume
+    cd resume
+    vim resume.md   #update resume info
     make
 
 Requirements:
 
- * ConTeXt
- * pandoc
+    ConTeXt
+    pandoc
