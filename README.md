@@ -13,4 +13,9 @@ Requirements:
     ConTeXt
     pandoc
 
-    You will need both pandoc and ConTeXt installed on your system, which on Debian and derivatives can be achieved with sudo apt-get install pandoc context
+
+    You will need both pandoc and ConTeXt installed on your system,
+    which on Debian and derivatives can be achieved with:
+    ```
+    sudo apt-get install pandoc context
+    ```
