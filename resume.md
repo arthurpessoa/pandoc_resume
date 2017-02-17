@@ -1,4 +1,4 @@
-Johnny Coder
+Arthur Pessoa
 ============
 
 ----
@@ -9,25 +9,10 @@ Johnny Coder
 
 ----
 
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Software Engineer, Universo Online:**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -38,9 +23,13 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
+**Intern - Software Engineer, Universo Online:**
 
-Also with a short description.
+
+**Intern - Applied cryptography and mobile security researcher, CPqD:**
+CPqD is a independent research institution, focused in the innovation of Information Technology.
+Here, in my very first professional experience, i've worked in a military founded project aimed to improve android security (Including Kernel and Core Libraries),
+applying advanced cryptography concepts, exploring new algorithms and vulnerabilities.  
 
 Technical Experience
 --------------------
@@ -61,7 +50,7 @@ Open Source
     your idea...
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
+:   **Java:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -69,17 +58,27 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **C/C++:** I have a strong C/C++ background, since high school, .
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Clojure:** Currently my favorite hipster language, i use it whenever i can, even if it means that i can only use in small projects :)
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **x86, MIPS and ARM9 assembly**, **C#**, **Javascript**, **Python**, **Ruby**
 
 [ref]: https://github.com/githubuser/superlongprojectname
+
+
+Education
+---------
+
+2010-2015
+:   **BSc, Computer Science**; Universidade Federal de São Carlos (Sorocaba)
+
+    *Undergraduate Research: Artificial Intelligence and Data Mining*
+
+2008-2009
+:   **Dipl, Software Development** ETEC Adolpho Berezin
+
+
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
